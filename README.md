@@ -4,12 +4,12 @@
 Cobra Snake Game is a console-based implementation of the classic Snake game written in C. The game features two modes: "Trapped in Box" and "Infinity Run." Players navigate the snake to eat fruits and grow in length while avoiding collisions with the walls and the snake's own body.
 
 # Features:
-Two Game Modes:
-   1. Trapped in Box: The game ends if the snake hits the wall.
-   2. Infinity Run: The snake can wrap around the edges of the game field.
-High Score Tracking: The game keeps track of the top 5 high scores.
-Smooth Gameplay: Responsive controls for movement using 'W', 'A', 'S', 'D'.
-Credits Screen: Recognition of developers and instructors.
+1. Two Game Modes:
+   a. Trapped in Box: The game ends if the snake hits the wall.
+   b. Infinity Run: The snake can wrap around the edges of the game field.
+2. High Score Tracking: The game keeps track of the top 5 high scores.
+3. Smooth Gameplay: Responsive controls for movement using 'W', 'A', 'S', 'D'.
+4. Credits Screen: Recognition of developers and instructors.
 
 # How_to_Play:
   1. Start Game and select a mode.
