@@ -1,7 +1,7 @@
 # COBRA.C-Game
 
 # Overview:
-Cobra Snake Game is a console-based implementation of the classic Snake game written in C. The game features two modes: "Trapped in Box" and "Infinity Run." Players navigate the snake to eat fruits and grow in length while avoiding collisions with the walls and the snake's own body.
+Cobra Snake Game is a console-based implementation of the classic Snake game written in C. The game features two modes: "Trapped in Box" and "Infinity Run." Players navigate the snake to eat fruits and grow in length while avoiding collisions with the walls and the snake's own body. It also includes a high score system, smooth gameplay, and a clean console interface. This project was a great way to explore file handling, dynamic memory allocation, and game loop mechanics in C.
 
 # Features:
 1. Two Game Modes:
